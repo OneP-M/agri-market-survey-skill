@@ -1,0 +1,8 @@
+
+## `agents/openai.yaml`
+
+```yaml
+interface:
+  display_name: Market Survey Analysis
+  short_description: Build a complete market-survey competition project
+  default_prompt: Use $market-survey-analysis to develop my selected topic into a feasible, novel, policy-grounded National Undergraduate Market Survey and Analysis Competition project.
